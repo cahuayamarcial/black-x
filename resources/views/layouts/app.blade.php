@@ -115,10 +115,10 @@
                             </li>
 
                             <li>
-                                <a href="#about">Beneficios</a>
+                                <a href="#beneficios">Beneficios</a>
                             </li>
                             <li>
-                                <a href="#precios">Precios</a>
+                                <a href="#precios">Comprar</a>
                             </li>
                             <li>
                                 <a href="#faq">Videos</a>

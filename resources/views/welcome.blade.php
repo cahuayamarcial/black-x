@@ -69,6 +69,56 @@
     </section>
     <!-- ================> Banner section end here <================== -->
 
+     <!-- ================> About section start here <================== -->
+     <section class="about padding-top padding-bottom" id="beneficios">
+        <div class="container">
+            <div class="about__wrapper">
+                <div class="row g-5">
+                    <div class="col-lg-6">
+                        <div class="about__thumb" data-aos="fade-up" data-aos-duration="1500">
+                            <img src="assets/images/about/01.png" alt="About Image">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="about__content" data-aos="fade-up" data-aos-duration="2000">
+                            <p class="subtitle">Beneficios</p>
+                            <h2>Seguridad</h2>
+                            <p style="font-size: 18px"> Black X, el mejor panel en el mercado para mejorar tu experiencia en Free Fire! Aquí encontrarás una amplia gama de <strong>hacks</strong> exclusivos y diseñados para ayudarte a alcanzar la victoria sin riesgo de baneos o blacklist.</p>
+                            <p style="font-size: 18px">Tu seguridad es nuestra máxima prioridad. Nos esforzamos por mantenernos actualizados con las últimas actualizaciones de Free Fire y adaptar nuestras herramientas para garantizar una experiencia sin problemas y sin riesgos.</p>
+                            <div class="mint-step">
+                                <p class="subtitle color--secondary-color">Lista de beneficios</p>
+                                {{-- <h3>How to Mint</h3> --}}
+                                {{-- <p>Richard mclintock an Latin professor and hampden-sydney college in virginia and
+                                    looked up one of the more obscure words consectetur cites of the word in</p> --}}
+                                <ul class="mint-step__list">
+                                    <li class="mint-step__list-item"><span class="color--theme-color">1.</span>
+                                        Sin riesgo de baneos</li>
+                                    <li class="mint-step__list-item"><span class="color--theme-color">2.</span>
+                                        Sin riesgo de blacklist</li>
+                                    <li class="mint-step__list-item"><span class="color--theme-color">3.</span>
+                                      Sin límite de rachas ganadas</li>
+                                    <li class="mint-step__list-item"><span class="color--theme-color">4.</span>
+                                      Actualizaciones frecuentes</li>
+                                    <li class="mint-step__list-item"><span class="color--theme-color">5.</span>
+                                        Soporte dedicado 24/7</li>
+                                    <li class="mint-step__list-item"><span class="color--theme-color">6.</span>
+                                        Buena comunidad</li>
+                                </ul>
+                                <div class="btn-group">
+                                  <a href="#" class="default-btn default-btn--secondary custom-btn btn-6"><span>Comprar ahora <i class="fa-solid fa-crown"></i></span></a>
+                                    {{-- <a href="#" class="default-btn default-btn--secondary">Mint Now</a> --}}
+                                    {{-- <a href="#" class="default-btn">Whitelist Now</a> --}}
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ================> About section end here <================== -->
+
     <!-- ================Blog section start here <================== -->
     <section id="precios" class="blog padding-top padding-bottom back1">
         <div class="container">
