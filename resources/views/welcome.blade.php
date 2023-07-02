@@ -69,6 +69,8 @@
     </section>
     <!-- ================> Banner section end here <================== -->
 
+    
+
      <!-- ================> About section start here <================== -->
      <section class="about padding-top padding-bottom" id="beneficios">
         <div class="container">
@@ -105,7 +107,7 @@
                                         Buena comunidad</li>
                                 </ul>
                                 <div class="btn-group">
-                                  <a href="#" class="default-btn default-btn--secondary custom-btn btn-6"><span>Comprar ahora <i class="fa-solid fa-crown"></i></span></a>
+                                  <a href="#" class="default-btn default-btn--secondary custom-btn btn-6"><span>Adquiere tu Panel <i class="fa-solid fa-crown"></i></span></a>
                                     {{-- <a href="#" class="default-btn default-btn--secondary">Mint Now</a> --}}
                                     {{-- <a href="#" class="default-btn">Whitelist Now</a> --}}
                                 </div>
@@ -298,4 +300,165 @@
         </div>
     </section>
     <!-- ================Blog section end here <================== -->
+
+	<!-- ================> Counter section start here <================== -->
+    <section class="counter">
+		<div class="container">
+			<div class="counter__wrapper">
+				<div class="row g-1">
+					<div class="col-lg-3 col-sm-6">
+						<div class="counter__item">
+							<div class="counter__item-content">
+								<h2><span class="purecounter" data-purecounter-start="0"
+										data-purecounter-end="8888">8888</span> </h2>
+								<p>Total items</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-sm-6">
+						<div class="counter__item">
+							<div class="counter__item-content">
+								<h2><span class="purecounter" data-purecounter-start="0" data-purecounter-end="1460"
+										data-purecounter-once="false">1460</span></h2>
+								<p>Total Owners</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-sm-6">
+						<div class="counter__item">
+							<div class="counter__item-content">
+								<h2>0.<span class="purecounter" data-purecounter-start="0.1" data-purecounter-end="84"
+										data-purecounter-once="false">0.84</span></h2>
+								<p>floor price [Eth]</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-sm-6">
+						<div class="counter__item">
+							<div class="counter__item-content">
+								<h2><span class="purecounter" data-purecounter-start="0" data-purecounter-end="13"
+										data-purecounter-once="false">13</span>k</h2>
+								<p>Volume Traded [Eth]</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- ================> Counter section end here <================== -->
+
+	<!-- ================> About section start here <================== -->
+	<section class="about padding-top padding-bottom" id="beneficios">
+        <div class="container">
+            <div class="about__wrapper">
+                <div class="row g-5">
+                    
+                    <div class="col-lg-6">
+                        <div class="about__content" data-aos="fade-up" data-aos-duration="2000">
+                            <p class="subtitle">Opiniones de nuestros usuarios</p>
+                            <h2>Testiminios</h2>
+                            {{-- <p style="font-size: 18px">En Black X, nos enorgullece contar con una comunidad de jugadores satisfechos que han experimentado los beneficios de nuestros cheats y herramientas en Free Fire. Aquí te presentamos algunas opiniones de nuestros usuarios</p> --}}
+                            <div class="mint-step">
+                                {{-- <h3>How to Mint</h3> --}}
+                                {{-- <p>Richard mclintock an Latin professor and hampden-sydney college in virginia and
+                                    looked up one of the more obscure words consectetur cites of the word in</p> --}}
+									<div class="carousel slide" id="carouselExampleDark" data-bs-ride="carousel">
+										<div class="carousel-inner">
+										  <div class="carousel-item active" data-bs-interval="10000">
+											<div class="row">
+											  <div class="col-12"><svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
+												  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"></path>
+												</svg><svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
+												  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"></path>
+												</svg><svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
+												  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"></path>
+												</svg><svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
+												  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"></path>
+												</svg><svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
+												  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"></path>
+												</svg>
+												<h5 class="my-4 fw-bold lh-sm">Usuario Panel VIP</h5>
+												<p class="mb-0 text-center text-md-start">El mejor panel hasta el momento, 100% seguro, sin blacklist. Estoy feliz con los productos de Black X, siempre se preocupan por tu cuenta y por la seguridad.</p>
+											  </div>
+											  <div class="col-xl-6 pt-4 d-flex d-sm-block flex-center">
+												<div class="d-flex align-items-md-center"><img class="img-fluid me-4 me-md-3 me-lg-4" src="https://img001.prntscr.com/file/img001/4gAvv8shR9y2P_Ki4Bg0yA.png" width="100" alt="" />
+												  <div class="w-lg-50 my-3">
+													<h5 class="mb-0 fw-bold">Aquiles</h5>
+													<p class="fw-normal mb-0">Panel VIP</p>
+												  </div>
+												</div>
+											  </div>
+											</div>
+										  </div>
+										  {{-- <div class="carousel-item" data-bs-interval="2000">
+											<div class="row h-100">
+											  <div class="col-12"><svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
+												  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"></path>
+												</svg><svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
+												  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"></path>
+												</svg><svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
+												  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"></path>
+												</svg><svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
+												  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"></path>
+												</svg><svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
+												  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"></path>
+												</svg>
+												<h5 class="my-4 fw-bold lh-sm">User friendly &amp; Customizable</h5>
+												<p class="mb-0 text-center text-md-start">Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+											  </div>
+											  <div class="col-xl-6 pt-4 d-flex d-sm-block flex-center">
+												<div class="d-flex align-items-md-center"><img class="img-fluid me-4 me-md-3 me-lg-4" src="assets/img/gallery/user-1.png" width="100" alt="" />
+												  <div class="w-lg-50 my-3">
+													<h5 class="mb-0 fw-bold">Jhon Doe</h5>
+													<p class="fw-normal mb-0">Web Developer</p>
+												  </div>
+												</div>
+											  </div>
+											</div>
+										  </div>
+										  <div class="carousel-item">
+											<div class="row h-100">
+											  <div class="col-12"><svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
+												  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"></path>
+												</svg><svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
+												  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"></path>
+												</svg><svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
+												  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"></path>
+												</svg><svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
+												  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"></path>
+												</svg><svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
+												  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"></path>
+												</svg>
+												<h5 class="my-4 fw-bold lh-sm">User friendly &amp; Customizable</h5>
+												<p class="mb-0 text-center text-md-start">Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+											  </div>
+											  <div class="col-xl-6 pt-4 d-flex d-sm-block flex-center">
+												<div class="d-flex align-items-md-center"><img class="img-fluid me-4 me-md-3 me-lg-4" src="assets/img/gallery/user-2.png" width="100" alt="" />
+												  <div class="w-lg-50 my-3">
+													<h5 class="mb-0 fw-bold">Viezh Robert</h5>
+													<p class="fw-normal mb-0">UI/UX Designer</p>
+												  </div>
+												</div>
+											  </div>
+											</div>
+										  </div> --}}
+										</div>
+										<div class="position-relative mt-sm-n5"><a class="carousel-control-prev carousel-icon z-index-2" href="#carouselExampleDark" role="button" data-bs-slide="prev"><span class="carousel-control-prev-icon" aria-hidden="true"></span><span class="visually-hidden">Previous</span></a><a class="carousel-control-next carousel-icon z-index-2" href="#carouselExampleDark" role="button" data-bs-slide="next"><span class="carousel-control-next-icon" aria-hidden="true"></span><span class="visually-hidden">Next</span></a></div>
+									  </div>
+                            </div>
+
+                        </div>
+                    </div>
+					<div class="col-lg-6">
+                        <div class="about__thumb" data-aos="fade-up" data-aos-duration="1500">
+                            <img src="assets/images/banner/testimonial.png" alt="About Image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ================> About section end here <================== -->
+
 @endsection
