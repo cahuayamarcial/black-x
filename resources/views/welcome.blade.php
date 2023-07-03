@@ -36,7 +36,7 @@
                     <div class="col-lg-6">
                         <div class="banner__thumb d-flex justify-content-center" data-aos="fade-left"
                             data-aos-duration="2000">
-                            <img src="assets/images/banner/05.png" id="imageMz" alt="banner Image">
+                            <img src="assets/images/banner/05.png" id="imageMz" class="image__main_mz" alt="banner Image">
                             
                             {{-- <a class="banner__video" href="https://www.youtube.com/embed/BKkc2v8echI"
                                 data-rel="lightcase">
@@ -69,7 +69,52 @@
     </section>
     <!-- ================> Banner section end here <================== -->
 
-    
+        <!-- ================> Counter section start here <================== -->
+    <section class="counter counter--uplifted">
+        <div class="container">
+            <div class="counter__wrapper">
+                <div class="row g-1">
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="counter__item">
+                            <div class="counter__item-content">
+                                <h2><span class="purecounter" data-purecounter-start="0"
+                                        data-purecounter-end="254">254</span> </h2>
+                                <p>Miembros</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="counter__item">
+                            <div class="counter__item-content">
+                                <h2><span class="purecounter" data-purecounter-start="0" data-purecounter-end="16"
+                                        data-purecounter-once="false">16</span></h2>
+                                <p>Equipo</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="counter__item">
+                            <div class="counter__item-content">
+                                <h2><span class="purecounter" data-purecounter-start="0" data-purecounter-end="4"
+                                        data-purecounter-once="false">12</span></h2>
+                                <p>Actualizaciones</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="counter__item">
+                            <div class="counter__item-content">
+                                <h2><span class="purecounter" data-purecounter-start="0" data-purecounter-end="50"
+                                        data-purecounter-once="false">50</span></h2>
+                                <p>Funciones</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ================> Counter section end here <================== -->
 
      <!-- ================> About section start here <================== -->
      <section class="about padding-top padding-bottom" id="beneficios">
@@ -120,6 +165,7 @@
         </div>
     </section>
     <!-- ================> About section end here <================== -->
+    
 
     <!-- ================Blog section start here <================== -->
     <section id="precios" class="blog padding-top padding-bottom back1">
@@ -136,162 +182,155 @@
                               <div class="card__pricing-number">
                                 <span class="card__pricing-symbol">$</span>10
                               </div>
-                              <span class="card__pricing-month">Semanal</span>
+                              <span class="card__pricing-month">Mes</span>
                             </div>
                       
                             <header class="card__header">
-                              {{-- <div class="card__header-circle grid">
-                                <img src="https://fadzrinmadu.github.io/hosted-assets/responsive-pricing-card-using-html-and-css/free-coin.png" alt="" class="card__header-img">
-                              </div> --}}
-                      
-                              {{-- <span class="card__header-subtitle">Producto</span> --}}
-                              <h1 class="card__header-title text-center">BYPASS</h1>
+                                <h1 class="card__header-title text-center neon__text__mz">BYPASS</h1>
                             </header>
                             
-                            <span class="card__header-subtitle mb-3">Precios</span>
-                            <ul class="card__list grid">
-                              <li class="card__list-item">
-                                <i class="fa-solid fa-check check__card"></i>
-                                <p class="card__list-description pb-0">Bypass emulador</p>
-                              </li>
-                              <li class="card__list-item">
-                                <i class="fa-solid fa-check check__card"></i>
-                                <p class="card__list-description pb-0">Antiban</p>
-                              </li>
-                              <li class="card__list-item">
-                                <i class="fa-solid fa-check check__card"></i>
-                                <p class="card__list-description pb-0">Antiblacklist</p>
-                              </li>
-                              <li class="card__list-item">
-                                <i class="fa-solid fa-check check__card"></i>
-                                <p class="card__list-description pb-0">Soporte 24/7</p>
-                              </li>
-                              <li class="card__list-item">
-                                <i class="fa-solid fa-xmark check__card"></i>
-                                <p class="card__list-description pb-0">Aimbot</p>
-                              </li>
-                              <li class="card__list-item">
-                                <i class="fa-solid fa-xmark check__card"></i>
-                                <p class="card__list-description pb-0">Balas Magicas</p>
-                              </li>
-                              <li class="card__list-item">
-                                <i class="fa-solid fa-xmark check__card"></i>
-                                <p class="card__list-description pb-0">Otros</p>
-                              </li>
-                            </ul>
+                            <span class="card__header-subtitle mb-3 ">Precios</span>
+                            <div class="card__wt mb-28">
+                                <ul class="card__list grid">
+                                    <li class="card__list-item">
+                                      <i class="fa-solid fa-circle-check check__card__ok"></i>
+                                      <p class="card__list-description pb-0">Bypass emulador</p>
+                                    </li>
+                                    <li class="card__list-item">
+                                      <i class="fa-solid fa-circle-check check__card__ok"></i>
+                                      <p class="card__list-description pb-0">Antiban</p>
+                                    </li>
+                                    <li class="card__list-item">
+                                      <i class="fa-solid fa-circle-check check__card__ok"></i>
+                                      <p class="card__list-description pb-0">Antiblacklist</p>
+                                    </li>
+                                    <li class="card__list-item">
+                                      <i class="fa-solid fa-circle-check check__card__ok"></i>
+                                      <p class="card__list-description pb-0">Soporte 24/7</p>
+                                    </li>
+                                    <li class="card__list-item">
+                                      <i class="fa-solid fa-circle-xmark check__card__no"></i>
+                                      <p class="card__list-description pb-0">Aimbot</p>
+                                    </li>
+                                    <li class="card__list-item">
+                                      <i class="fa-solid fa-circle-xmark check__card__no"></i>
+                                      <p class="card__list-description pb-0">Balas Magicas</p>
+                                    </li>
+                                    <li class="card__list-item">
+                                      <i class="fa-solid fa-circle-xmark check__card__no"></i>
+                                      <p class="card__list-description pb-0">Otros</p>
+                                    </li>
+                                  </ul>
+                            </div>
+                            
                             <a href="#" class="default-btn default-btn--secondary custom-btn btn-6" style="text-align: center"><span>Comprar</span></a>
                             {{-- <button class="card__button">Choose this plan</button> --}}
                             
                           </article>
                     </div>
+
                     <div class="col-lg-4 col-md-6">
                         <article class="card__content grid">
                             <div class="card__pricing">
                               <div class="card__pricing-number">
                                 <span class="card__pricing-symbol">$</span>10
                               </div>
-                              <span class="card__pricing-month">Semanal</span>
+                              <span class="card__pricing-month">Mes</span>
                             </div>
                       
                             <header class="card__header">
-                              {{-- <div class="card__header-circle grid">
-                                <img src="https://fadzrinmadu.github.io/hosted-assets/responsive-pricing-card-using-html-and-css/free-coin.png" alt="" class="card__header-img">
-                              </div> --}}
-                      
-                              {{-- <span class="card__header-subtitle">Producto</span> --}}
-                              <h1 class="card__header-title text-center">PANEL VIP</h1>
+                                <h1 class="card__header-title text-center neon__text__mz">PANEL VIP</h1>
                             </header>
                             
-                            <span class="card__header-subtitle mb-3">Precios</span>
-                            <ul class="card__list grid">
-                              <li class="card__list-item">
-                                <i class="fa-solid fa-check check__card"></i>
-                                <p class="card__list-description pb-0">Bypass emulador</p>
-                              </li>
-                              <li class="card__list-item">
-                                <i class="fa-solid fa-check check__card"></i>
-                                <p class="card__list-description pb-0">Antiban</p>
-                              </li>
-                              <li class="card__list-item">
-                                <i class="fa-solid fa-check check__card"></i>
-                                <p class="card__list-description pb-0">Antiblacklist</p>
-                              </li>
-                              <li class="card__list-item">
-                                <i class="fa-solid fa-check check__card"></i>
-                                <p class="card__list-description pb-0">Soporte 24/7</p>
-                              </li>
-                              <li class="card__list-item">
-                                <i class="fa-solid fa-xmark check__card"></i>
-                                <p class="card__list-description pb-0">Aimbot</p>
-                              </li>
-                              <li class="card__list-item">
-                                <i class="fa-solid fa-xmark check__card"></i>
-                                <p class="card__list-description pb-0">Balas Magicas</p>
-                              </li>
-                              <li class="card__list-item">
-                                <i class="fa-solid fa-xmark check__card"></i>
-                                <p class="card__list-description pb-0">Otros</p>
-                              </li>
-                            </ul>
-                            <a href="#" class="default-btn default-btn--secondary custom-btn btn-6" style="text-align: center"><span>Comprar</span></a>
-                            {{-- <button class="card__button">Choose this plan</button> --}}
+                            <span class="card__header-subtitle mb-3 ">Precios</span>
+                            <div class="card__wt mb-28">
+                                <ul class="card__list grid">
+                                    <li class="card__list-item">
+                                      <i class="fa-solid fa-circle-check check__card__ok"></i>
+                                      <p class="card__list-description pb-0">Bypass emulador</p>
+                                    </li>
+                                    <li class="card__list-item">
+                                      <i class="fa-solid fa-circle-check check__card__ok"></i>
+                                      <p class="card__list-description pb-0">Antiban</p>
+                                    </li>
+                                    <li class="card__list-item">
+                                      <i class="fa-solid fa-circle-check check__card__ok"></i>
+                                      <p class="card__list-description pb-0">Antiblacklist</p>
+                                    </li>
+                                    <li class="card__list-item">
+                                      <i class="fa-solid fa-circle-check check__card__ok"></i>
+                                      <p class="card__list-description pb-0">Soporte 24/7</p>
+                                    </li>
+                                    <li class="card__list-item">
+                                      <i class="fa-solid fa-circle-xmark check__card__no"></i>
+                                      <p class="card__list-description pb-0">Aimbot</p>
+                                    </li>
+                                    <li class="card__list-item">
+                                      <i class="fa-solid fa-circle-xmark check__card__no"></i>
+                                      <p class="card__list-description pb-0">Balas Magicas</p>
+                                    </li>
+                                    <li class="card__list-item">
+                                      <i class="fa-solid fa-circle-xmark check__card__no"></i>
+                                      <p class="card__list-description pb-0">Otros</p>
+                                    </li>
+                                  </ul>
+                            </div>
                             
+                            <a href="#" class="default-btn default-btn--secondary custom-btn btn-6" style="text-align: center"><span>Comprar</span></a>
                           </article>
                     </div>
+
                     <div class="col-lg-4 col-md-6">
                         <article class="card__content grid">
                             <div class="card__pricing">
                               <div class="card__pricing-number">
                                 <span class="card__pricing-symbol">$</span>10
                               </div>
-                              <span class="card__pricing-month">Semanal</span>
+                              <span class="card__pricing-month">Mes</span>
                             </div>
                       
                             <header class="card__header">
-                              {{-- <div class="card__header-circle grid">
-                                <img src="https://fadzrinmadu.github.io/hosted-assets/responsive-pricing-card-using-html-and-css/free-coin.png" alt="" class="card__header-img">
-                              </div> --}}
-                      
-                              {{-- <span class="card__header-subtitle">Producto</span> --}}
-                              <h1 class="card__header-title text-center">REGEDIT</h1>
+                                <h1 class="card__header-title text-center neon__text__mz">REGEDIT</h1>
                             </header>
                             
-                            <span class="card__header-subtitle mb-3">Precios</span>
-                            <ul class="card__list grid">
-                              <li class="card__list-item">
-                                <i class="fa-solid fa-check check__card"></i>
-                                <p class="card__list-description pb-0">Bypass emulador</p>
-                              </li>
-                              <li class="card__list-item">
-                                <i class="fa-solid fa-check check__card"></i>
-                                <p class="card__list-description pb-0">Antiban</p>
-                              </li>
-                              <li class="card__list-item">
-                                <i class="fa-solid fa-check check__card"></i>
-                                <p class="card__list-description pb-0">Antiblacklist</p>
-                              </li>
-                              <li class="card__list-item">
-                                <i class="fa-solid fa-check check__card"></i>
-                                <p class="card__list-description pb-0">Soporte 24/7</p>
-                              </li>
-                              <li class="card__list-item">
-                                <i class="fa-solid fa-xmark check__card"></i>
-                                <p class="card__list-description pb-0">Aimbot</p>
-                              </li>
-                              <li class="card__list-item">
-                                <i class="fa-solid fa-xmark check__card"></i>
-                                <p class="card__list-description pb-0">Balas Magicas</p>
-                              </li>
-                              <li class="card__list-item">
-                                <i class="fa-solid fa-xmark check__card"></i>
-                                <p class="card__list-description pb-0">Otros</p>
-                              </li>
-                            </ul>
-                            <a href="#" class="default-btn default-btn--secondary custom-btn btn-6" style="text-align: center"><span>Comprar</span></a>
-                            {{-- <button class="card__button">Choose this plan</button> --}}
+                            <span class="card__header-subtitle mb-3 ">Precios</span>
+                            <div class="card__wt mb-28">
+                                <ul class="card__list grid">
+                                    <li class="card__list-item">
+                                      <i class="fa-solid fa-circle-check check__card__ok"></i>
+                                      <p class="card__list-description pb-0">Bypass emulador</p>
+                                    </li>
+                                    <li class="card__list-item">
+                                      <i class="fa-solid fa-circle-check check__card__ok"></i>
+                                      <p class="card__list-description pb-0">Antiban</p>
+                                    </li>
+                                    <li class="card__list-item">
+                                      <i class="fa-solid fa-circle-check check__card__ok"></i>
+                                      <p class="card__list-description pb-0">Antiblacklist</p>
+                                    </li>
+                                    <li class="card__list-item">
+                                      <i class="fa-solid fa-circle-check check__card__ok"></i>
+                                      <p class="card__list-description pb-0">Soporte 24/7</p>
+                                    </li>
+                                    <li class="card__list-item">
+                                      <i class="fa-solid fa-circle-xmark check__card__no"></i>
+                                      <p class="card__list-description pb-0">Aimbot</p>
+                                    </li>
+                                    <li class="card__list-item">
+                                      <i class="fa-solid fa-circle-xmark check__card__no"></i>
+                                      <p class="card__list-description pb-0">Balas Magicas</p>
+                                    </li>
+                                    <li class="card__list-item">
+                                      <i class="fa-solid fa-circle-xmark check__card__no"></i>
+                                      <p class="card__list-description pb-0">Otros</p>
+                                    </li>
+                                  </ul>
+                            </div>
                             
+                            <a href="#" class="default-btn default-btn--secondary custom-btn btn-6" style="text-align: center"><span>Comprar</span></a>
                           </article>
                     </div>
+
                 </div>
                 {{-- <div class="mt-5 text-center">
                     <a href="blog.html" class="default-btn"><span>View all blog post</span></a>
@@ -300,53 +339,6 @@
         </div>
     </section>
     <!-- ================Blog section end here <================== -->
-
-	<!-- ================> Counter section start here <================== -->
-    <section class="counter">
-		<div class="container">
-			<div class="counter__wrapper">
-				<div class="row g-1">
-					<div class="col-lg-3 col-sm-6">
-						<div class="counter__item">
-							<div class="counter__item-content">
-								<h2><span class="purecounter" data-purecounter-start="0"
-										data-purecounter-end="8888">8888</span> </h2>
-								<p>Total items</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-3 col-sm-6">
-						<div class="counter__item">
-							<div class="counter__item-content">
-								<h2><span class="purecounter" data-purecounter-start="0" data-purecounter-end="1460"
-										data-purecounter-once="false">1460</span></h2>
-								<p>Total Owners</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-3 col-sm-6">
-						<div class="counter__item">
-							<div class="counter__item-content">
-								<h2>0.<span class="purecounter" data-purecounter-start="0.1" data-purecounter-end="84"
-										data-purecounter-once="false">0.84</span></h2>
-								<p>floor price [Eth]</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-3 col-sm-6">
-						<div class="counter__item">
-							<div class="counter__item-content">
-								<h2><span class="purecounter" data-purecounter-start="0" data-purecounter-end="13"
-										data-purecounter-once="false">13</span>k</h2>
-								<p>Volume Traded [Eth]</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- ================> Counter section end here <================== -->
 
 	<!-- ================> About section start here <================== -->
 	<section class="about padding-top padding-bottom" id="beneficios">
