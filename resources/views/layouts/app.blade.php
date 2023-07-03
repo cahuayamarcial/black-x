@@ -102,7 +102,7 @@
                     <div class="logo">
                         <a href="index.html">
                             <!-- <img src="assets/images/logo/logo.png" alt="logo"> -->
-                            <img src="https://black-x.marbot.bo/assets/img/logo/logo.png" alt="logo" style="
+                            <img src="assets/images/logo/logo.png" alt="logo" style="
                                 position: absolute;
                                 top: 10px;
                             ">
@@ -157,7 +157,7 @@
         <div class="footer__wrapper padding-top padding-bottom">
             <div class="container">
                 <div class="footer__content text-center">
-                    <a class="mb-4 d-inline-block" href="index.html"><img src="assets/images/logo/preloader-x.png"
+                    <a class="mb-4 d-inline-block" href="index.html"><img src="assets/images/logo/logo.png"
                             alt="Logo"></a>
                     <ul class="social justify-content-center">
                         <li class="social__item">
