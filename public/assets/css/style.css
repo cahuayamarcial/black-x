@@ -1719,7 +1719,7 @@ ol {
   transition: background-color 0.2s linear;
   line-height: 45px;
   border-radius: 5px;
-  background-color: #1d253b;
+  background-color: rgb(153 153 153 / 13%);
 }
 .social__link svg {
   color: #fff;
@@ -1727,10 +1727,10 @@ ol {
 }
 @media not all and (pointer: coarse) {
   .social__link:hover {
-    background-color: #00ffa3;
+    background-color: rgb(193 27 245 / 36%);
   }
   .social__link:hover svg {
-    color: #000000;
+    color: #fff;
   }
 }
 
@@ -4034,5 +4034,9 @@ text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fd2cff, 0 0 30px #fd2cff, 0 
 }
 
 
+.social__icon_mz {
+  position: relative;
+  top: 13px;
+}
 
 /*# sourceMappingURL=style.css.map */

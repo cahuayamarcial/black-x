@@ -88,7 +88,7 @@
 
     <!-- ===============>> Preloader start here <<================= -->
     <div class="preloader">
-        <img src="assets/images/logo/preloader.png" alt="Apes land">
+        <img src="assets/images/logo/preloader-x.png" alt="Apes land">
     </div>
     <!-- ===============>> Preloader end here <<================= -->
 
@@ -153,30 +153,30 @@
     @yield('content')
 
     <!-- ================> Footer section start here <================== -->
-    {{-- <footer class="footer" style="background-image: url(assets/images/footer/bg.png);">
+    <footer class="footer" style="background: #040404;">
         <div class="footer__wrapper padding-top padding-bottom">
             <div class="container">
                 <div class="footer__content text-center">
-                    <a class="mb-4 d-inline-block" href="index.html"><img src="assets/images/logo/logo.png"
+                    <a class="mb-4 d-inline-block" href="index.html"><img src="assets/images/logo/preloader-x.png"
                             alt="Logo"></a>
                     <ul class="social justify-content-center">
                         <li class="social__item">
-                            <a href="#" class="social__link"><i class="fab fa-twitter"></i></a>
+                            <a href="#" class="social__link"><i class="fab fa-twitter social__icon_mz"></i></a>
                         </li>
                         <li class="social__item">
-                            <a href="#" class="social__link"><i class="fab fa-discord"></i></a>
+                            <a href="#" class="social__link"><i class="fab fa-discord social__icon_mz"></i></a>
                         </li>
                         <li class="social__item">
-                            <a href="#" class="social__link"><i class="fab fa-twitch"></i></a>
+                            <a href="#" class="social__link"><i class="fab fa-twitch social__icon_mz"></i></a>
                         </li>
                         <li class="social__item">
-                            <a href="#" class="social__link"><i class="fab fa-instagram"></i></a>
+                            <a href="#" class="social__link"><i class="fab fa-instagram social__icon_mz"></i></a>
                         </li>
                         <li class="social__item">
-                            <a href="#" class="social__link"><i class="fab fa-linkedin-in"></i></a>
+                            <a href="#" class="social__link"><i class="fab fa-tiktok social__icon_mz"></i></a>
                         </li>
                         <li class="social__item">
-                            <a href="#" class="social__link"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#" class="social__link"><i class="fab fa-facebook-f social__icon_mz"></i></a>
                         </li>
                     </ul>
                 </div>
@@ -185,11 +185,11 @@
         <div class="footer__copyright">
             <div class="container">
                 <div class="text-center py-4">
-                    <p class=" mb-0">© 2022 | All Rights Reserved </p>
+                    <p class=" mb-0">© 2023 | All Rights Reserved, whith <strong style="color: red">♥</strong> <a href="https://marbot.bo" target="_blank">@marbot.bo</a></p>
                 </div>
             </div>
         </div>
-    </footer> --}}
+    </footer>
     <!-- ================> Footer section end here <================== -->
 
 
