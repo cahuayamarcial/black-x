@@ -374,7 +374,7 @@
 												<p class="mb-0 text-center text-md-start">El mejor panel hasta el momento, 100% seguro, sin blacklist. Estoy feliz con los productos de Black X, siempre se preocupan por tu cuenta y por la seguridad.</p>
 											  </div>
 											  <div class="col-xl-6 pt-4 d-flex d-sm-block flex-center">
-												<div class="d-flex align-items-md-center"><img class="img-fluid me-4 me-md-3 me-lg-4" src="https://img001.prntscr.com/file/img001/4gAvv8shR9y2P_Ki4Bg0yA.png" width="100" alt="" />
+												<div class="d-flex align-items-md-center"><img class="img-fluid me-4 me-md-3 me-lg-4 img-circle" src="https://img001.prntscr.com/file/img001/4gAvv8shR9y2P_Ki4Bg0yA.png" width="100" alt="" />
 												  <div class="w-lg-50 my-3">
 													<h5 class="mb-0 fw-bold">Aquiles</h5>
 													<p class="fw-normal mb-0">Panel VIP</p>
@@ -383,8 +383,9 @@
 											  </div>
 											</div>
 										  </div>
-										  {{-- <div class="carousel-item" data-bs-interval="2000">
-											<div class="row h-100">
+
+                                          <div class="carousel-item" data-bs-interval="2000">
+											<div class="row">
 											  <div class="col-12"><svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
 												  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"></path>
 												</svg><svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
@@ -396,21 +397,22 @@
 												</svg><svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
 												  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"></path>
 												</svg>
-												<h5 class="my-4 fw-bold lh-sm">User friendly &amp; Customizable</h5>
-												<p class="mb-0 text-center text-md-start">Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+												<h5 class="my-4 fw-bold lh-sm">Usuario Panel VIP</h5>
+												<p class="mb-0 text-center text-md-start">Estoy impresionado con la calidad de los cheats de Black X. He utilizado otros paneles en el pasado, pero ninguno se compara a la seguridad y las funciones avanzadas que ofrece Black X.</p>
 											  </div>
 											  <div class="col-xl-6 pt-4 d-flex d-sm-block flex-center">
-												<div class="d-flex align-items-md-center"><img class="img-fluid me-4 me-md-3 me-lg-4" src="assets/img/gallery/user-1.png" width="100" alt="" />
+												<div class="d-flex align-items-md-center"><img class="img-fluid me-4 me-md-3 me-lg-4 img-circle" src="https://img001.prntscr.com/file/img001/x_7Y6o5VSPKSlvtu8RQocw.png" width="100" alt="" />
 												  <div class="w-lg-50 my-3">
-													<h5 class="mb-0 fw-bold">Jhon Doe</h5>
-													<p class="fw-normal mb-0">Web Developer</p>
+													<h5 class="mb-0 fw-bold">Valeska</h5>
+													<p class="fw-normal mb-0">Panel VIP</p>
 												  </div>
 												</div>
 											  </div>
 											</div>
 										  </div>
-										  <div class="carousel-item">
-											<div class="row h-100">
+
+                                          <div class="carousel-item" data-bs-interval="2000">
+											<div class="row">
 											  <div class="col-12"><svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
 												  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"></path>
 												</svg><svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
@@ -422,19 +424,22 @@
 												</svg><svg class="bi bi-star-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFCC00" viewBox="0 0 16 16">
 												  <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"></path>
 												</svg>
-												<h5 class="my-4 fw-bold lh-sm">User friendly &amp; Customizable</h5>
-												<p class="mb-0 text-center text-md-start">Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+												<h5 class="my-4 fw-bold lh-sm">Usuario Bypass</h5>
+												<p class="mb-0 text-center text-md-start">El mejor bypass, sin baneo y sin blacklist. Juego con todo mi clan y ahora si puedo acarrearles en BR jugando en PC.</p>
 											  </div>
 											  <div class="col-xl-6 pt-4 d-flex d-sm-block flex-center">
-												<div class="d-flex align-items-md-center"><img class="img-fluid me-4 me-md-3 me-lg-4" src="assets/img/gallery/user-2.png" width="100" alt="" />
+												<div class="d-flex align-items-md-center"><img class="img-fluid me-4 me-md-3 me-lg-4 img-circle" src="https://img001.prntscr.com/file/img001/eQXs_E1oQOKGrrfLreNihg.png" width="100" alt="" />
 												  <div class="w-lg-50 my-3">
-													<h5 class="mb-0 fw-bold">Viezh Robert</h5>
-													<p class="fw-normal mb-0">UI/UX Designer</p>
+													<h5 class="mb-0 fw-bold">Angel VIP</h5>
+													<p class="fw-normal mb-0">Bypass</p>
 												  </div>
 												</div>
 											  </div>
 											</div>
-										  </div> --}}
+										  </div>
+
+                                          
+										  
 										</div>
 										<div class="position-relative mt-sm-n5"><a class="carousel-control-prev carousel-icon z-index-2" href="#carouselExampleDark" role="button" data-bs-slide="prev"><span class="carousel-control-prev-icon" aria-hidden="true"></span><span class="visually-hidden">Previous</span></a><a class="carousel-control-next carousel-icon z-index-2" href="#carouselExampleDark" role="button" data-bs-slide="next"><span class="carousel-control-next-icon" aria-hidden="true"></span><span class="visually-hidden">Next</span></a></div>
 									  </div>

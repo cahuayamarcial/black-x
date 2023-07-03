@@ -4027,6 +4027,12 @@ text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fd2cff, 0 0 30px #fd2cff, 0 
 }
 
 
+.img-circle{
+  border-radius: 50%;
+  width: 80px;
+    height: 80px;
+}
+
 
 
 /*# sourceMappingURL=style.css.map */
